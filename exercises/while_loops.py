@@ -1,1 +1,7 @@
-# Write your solution for 1.3 here!
+
+sum = 1
+while sum < 10000:
+    sum= sum + sum + 1
+    print(sum)
+# print(sum)
+    
